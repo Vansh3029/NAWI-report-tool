@@ -107,6 +107,3 @@ Everything is stored in the browser's local storage on the computer being used. 
 4. Read indications directly from the instrument or a test-bench data logger.
 5. Generate native PDF and `.docx` files on the server.
 
-## Licence
-
-Add the licence you want to use for the repository here.
